@@ -1,7 +1,7 @@
 # blognone-bot-hider
 Google Chrome extension for hiding ~~annoying~~ bot on blognone.com
 
-Alpha Download: https://github.com/AmidoriA/blognone-bot-hider/releases/tag/0.0.1
+Alpha Download: https://github.com/AmidoriA/blognone-bot-hider/releases/tag/0.0.2
 
 ## Contribute
 ### Load the extension
