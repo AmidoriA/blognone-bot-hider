@@ -1,3 +1,3 @@
 # blognone-bot-hider
-Googlee Chroem extention for hide bot on blognone.comm
+Google Chrome extension for hiding ~~annoying~~ bot on blognone.com
 
